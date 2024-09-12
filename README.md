@@ -49,7 +49,7 @@ The trendline in *Figure 4* reflects an inverse correlation between success rate
 6. **Is there connections between clients' average yearly balance and success?**
 ![Balance distribution for successes](assets/balance_success.png)![Balance distribution for failures](assets/balance_failure.png)
 *Figures 5 & 6*   
-The marketing campaign appeared to produce more success with clients that had higher average yearly balances. 
+The marketing campaign produced higher success with clients that had higher average yearly balances. 
 
 ## Recommendations
 1. **Optimize Contact Frequency**: Focus efforts on contacting clients within the first 20 attempts, as diminishing returns are evident beyond that point. Streamlining follow-ups to avoid over-contacting will reduce resource expenditure without significantly impacting results.
