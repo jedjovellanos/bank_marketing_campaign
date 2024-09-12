@@ -48,7 +48,7 @@ The trendline in *Figure 4* reflects an inverse correlation between success rate
 
 6. **Is there connections between clients' average yearly balance and success?**
 ![Balance distribution for successes](assets/balance_success.png)![Balance distribution for failures](assets/balance_failure.png)
-*Figures 5 & 6*
+*Figures 5 & 6*   
 The marketing campaign appeared to produce more success with clients that had higher average yearly balances. 
 
 ## Recommendations
