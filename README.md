@@ -1,4 +1,4 @@
-![Banner](assets/banner.png)
+![Banner](assets/bl_banner.png)
 ## Table of Contents
 - [Business Question](#business-question)
 - [Data Source](#data-source)
