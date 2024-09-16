@@ -1,4 +1,4 @@
-![Banner](assets/banner.png)
+![Banner](assets/ba_banner.png)
 
 ## Table of Contents
 - [Background and Overview](#background-and-overview)
