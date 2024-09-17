@@ -8,7 +8,7 @@
 - [Recommendations](#recommendations)
 
 ## Background and Overview
-Bells Largo is a *fictional* multinational bank offering a wide range of financial services, including personal banking, loans, and investment products. With a large client base spanning the U.S., Bells Largo is constantly seeking ways to enhance the effectiveness of its marketing strategies to drive client engagement and growth.
+Bells Largo is a fictional multinational bank offering a wide range of financial services, including personal banking, loans, and investment products. With a large client base spanning the U.S., Bells Largo is constantly seeking ways to enhance the effectiveness of its marketing strategies to drive client engagement and growth.
 
 This analysis focuses on the performance of two marketing campaigns aimed at increasing term deposit subscriptions. Key areas of investigation include campaign success rates, the impact of contact frequency and recency on client engagement, and identifying client segments most likely to respond positively to future campaigns.
 How can Bells Largo have a greater effectiveness for future marketing campaigns?
