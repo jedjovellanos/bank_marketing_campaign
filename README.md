@@ -32,13 +32,12 @@ The overall success rate for Bells Largo's current marketing campaign stands at 
 ## Insights Deep Dive
 ### Contact Frequency
 ![Success rate by times contacted](assets/success_rates_contact_freq.png)
-*Figure 1*
 - Clients contacted between 1 and 10 times had a success rate ranging from 5.26% to 14.60%. **The highest success rate was observed for clients contacted just once, at 14.60%**, while clients contacted 10 times had a success rate of 5.26%. 
 - **Beyond 10 contacts, the success rate did not significantly increase and often diminished,** with clients contacted more than 20 times experiencing a success rate of less than 5%.
 
 ### Client Risk Levels
 ![Distribution and success rates of at-risk clients](assets/risky_business.png)
-*Figure 2*
+
 - **Clients with housing loans were 4 times more likely to subscribe compared to those with credit in default.** Clients with housing loans had a success rate of 4.28%, which is approximately 3.98 times higher than clients with credit in default, who had a success rate of 0.12%. 
 - Clients with housing loans represent 55.58% of the population and showed a significantly higher likelihood of subscribing to a term deposit compared to those with credit in default, who make up only 1.80% of the population.
 - Clients with personal loans had a success rate of 1.07%, which is also higher than those with credit in default but lower than clients with housing loans.
@@ -46,20 +45,20 @@ The overall success rate for Bells Largo's current marketing campaign stands at 
 
 ### Contact Type
 ![Success rate by contact type](assets/success_contact_type.png)
-*Figure 3*   
+
 - **Cellular contact led to an 11.20% higher success rate than telephone contact.** Clients contacted via cellular had a success rate of 14.92%, compared to 13.42% for telephone contact. 
 - This 11.20% higher success rate indicates that mobile communication may be slightly more effective in engaging clients.
 
 ### Recency of Contact
 ![Success rate by days since last contact](assets/success_days.png)
-*Figure 4*   
+
 - **Clients contacted within 90 days had a success rate up to 65.31%, compared to just 27.27% for those contacted after 90 days.** Specifically, the success rate for clients contacted within the first 30 days ranged from 40.00% to 65.31%, while for those contacted beyond 90 days, the success rate dropped to a range between 5.88% and 27.27%. 
 - This substantial difference highlights the critical impact of timely contact on the likelihood of a successful subscription.
 
 ### Client Balance
-![Balance distribution for successes](assets/balance_success.png) *Figure 5*
+![Balance distribution for successes](assets/balance_success.png) 
 ![Balance distribution for failures](assets/balance_failure.png)
-*Figure 6*   
+
 - **Clients with average yearly balances in the top 25% were approximately 3.5 times more likely to subscribe than those in the bottom 25%.** The median balance for successful clients was 733, compared to 417 for unsuccessful clients. These findings suggest that clients with higher average balances are significantly more responsive to the campaign and should be prioritized in future marketing efforts.
 
 ## Recommendations
